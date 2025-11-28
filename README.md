@@ -1,30 +1,61 @@
-# Productivity app
+Productivity App - Task & Expense Manager
 
-*Automatically synced with your [v0.app](https://v0.app) deployments*
+A modern, feature-rich productivity application for managing tasks, tracking expenses, setting budgets, and achieving savings goals. Built with Next.js, React, and Tailwind CSS with support for **all 150+ world currencies**.
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/adityawadhwani31-7679s-projects/v0-productivity-app)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.app-black?style=for-the-badge)](https://v0.app/chat/gh1UgqJ0blT)
+## Features
 
-## Overview
+✨ **Task Manager**
 
-This repository will stay in sync with your deployed chats on [v0.app](https://v0.app).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.app](https://v0.app).
+- Create, track, and manage tasks with priority levels
+- Organize tasks by custom categories
+- Set due dates and mark tasks as complete
+- Easy-to-use interface with filtering options
 
-## Deployment
 
-Your project is live at:
+💰 **Expense Tracker**
 
-**[https://vercel.com/adityawadhwani31-7679s-projects/v0-productivity-app](https://vercel.com/adityawadhwani31-7679s-projects/v0-productivity-app)**
+- Log expenses with detailed information
+- Assign expenses to categories for better organization
+- Full support for every world currency
+- Track spending patterns and history
 
-## Build your app
 
-Continue building your app on:
+📊 **Budget Tracker**
 
-**[https://v0.app/chat/gh1UgqJ0blT](https://v0.app/chat/gh1UgqJ0blT)**
+- Set monthly budget limits per category
+- Visual progress indicators showing budget usage
+- Real-time spending alerts
+- Compare actual spending vs. budgeted amounts
 
-## How It Works
 
-1. Create and modify your project using [v0.app](https://v0.app)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+🎯 **Savings Goals**
+
+- Create multiple savings targets
+- Track progress toward your goals
+- Calculate daily savings needed
+- Monitor your financial objectives
+
+
+🌍 **Global Currency Support**
+
+- 150+ world currencies included
+- ISO 4217 currency codes and symbols
+- Switch currencies anytime in settings
+- All calculations update automatically
+
+
+💾 **Data Management**
+
+- All data persists locally in your browser
+- Export your data as JSON for backup
+- Import previously saved data
+- Clear all data with one click
+
+
+## Tech Stack
+
+- **Framework:** Next.js with App Router
+- **UI Library:** React with shadcn/ui components
+- **Styling:** Tailwind CSS
+- **Storage:** Browser LocalStorage
+- **Language:** TypeScript
